@@ -1,7 +1,7 @@
 /node_modules
 /build
 /client/node_modules
-
+/package-lock.json
 .DS_Store
 
 npm-debug.log*
